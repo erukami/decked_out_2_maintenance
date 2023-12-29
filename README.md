@@ -46,3 +46,14 @@ Clean region files with basic maintenance and minor fixes for TangoTek's Decked 
 - Closed holes in lobby and Level 1
 - Hid entrance to redstone in starting room after exiting minecart
     - 2 blocks of Powdered Snow are now blocking the path on the right side
+
+# Warnings
+
+## Replacing Files
+Files should be replaced after the save has been closed. The game can remain open on the starting menu.
+
+## Adjacent Builds Affected
+Replacing the files will affect builds near Decked Out. The affected builds are as follows:
+
+- **r.-1.3.mca:** Soup Group, partically PearlescentMoon and GeminiTay
+- **r.-2.3.mca:** Mumbo Jumbo and xBCrafted
