@@ -36,7 +36,6 @@ Clean region files with basic maintenance and minor fixes for TangoTek's Decked 
     - Cleared compasses (and other items) from artifact spots
     - Refilled Level 1 droppers
     - Cleared Caves of Carnage key chest
-    - Moved Ravagers away from early area
 
 - Fixes
     - Connected Artifact spot #10 to system so that the artifact found sound will play
