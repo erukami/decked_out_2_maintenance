@@ -34,16 +34,22 @@ Clean region files with basic maintenance and minor fixes for TangoTek's Decked 
 
 - Maintenance Changes
     - Cleared compasses (and other items) from artifact spots
-    - Refilled Level 1 droppers
+    - Refilled droppers
     - Cleared Caves of Carnage key chest
 
 - Fixes
     - Connected Artifact spot #10 to system so that the artifact found sound will play
 
+### Level 2
+
+- Maintenance Changes
+    - Cleared compasses (and other items) from artifact spots
+    - Refilled droppers
+    - Cleared The Black Mines key chest
 
 ## Structure Changes
 
-- Closed holes in lobby and Level 1
+- Closed holes in lobby, Level 1 and Level 2
 - Hid entrance to redstone in starting room after exiting minecart
     - 2 blocks of Powdered Snow are now blocking the path on the right side
 
