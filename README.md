@@ -65,7 +65,7 @@ Clean region files with basic maintenance and minor fixes for TangoTek's Decked 
 
 ## Structure Changes
 
-- Closed holes in lobby, Level 1 and Level 2
+- Closed holes in lobby and Levels 1-3
 - Hid entrance to redstone in starting room after exiting minecart
     - 2 blocks of Powdered Snow are now blocking the path on the right side
 
