@@ -1,4 +1,4 @@
-# decked_out_2_region_files
+# Decked Out 2 Files
 Clean region files with basic maintenance and minor fixes for TangoTek's Decked Out 2 from HermitCraft Season 9.
 
 # Changes
@@ -77,5 +77,7 @@ Files should be replaced after the save has been closed. The game can remain ope
 ## Adjacent Builds Affected
 Replacing the files will affect builds near Decked Out. The affected builds are as follows:
 
-- **r.-1.3.mca:** Soup Group, partically PearlescentMoon and GeminiTay
+- **r.-1.3.mca:** Soup Group (PearlescentMoon and GeminiTay) and xBCrafted
 - **r.-2.3.mca:** Mumbo Jumbo and xBCrafted
+
+[![Affected Areas](images/affected_area_thumb.png)](images/affect_area.png)
