@@ -34,7 +34,7 @@ Clean region files with basic maintenance and minor fixes for TangoTek's Decked 
 
 - Maintenance Changes
     - Cleared compasses (and other items) from artifact spots
-    - Refilled droppers
+    - Refilled Treasure and Ember droppers
     - Cleared Caves of Carnage key chest
 
 - Fixes
@@ -44,8 +44,24 @@ Clean region files with basic maintenance and minor fixes for TangoTek's Decked 
 
 - Maintenance Changes
     - Cleared compasses (and other items) from artifact spots
-    - Refilled droppers
+    - Refilled Treasure and Ember droppers
+    - Refilled Rusty dropper
     - Cleared The Black Mines key chest
+
+### Level 3
+
+- Maintenance Changes
+    - Cleared compasses (and other items) from artifact spots
+    - Refilled Treasure and Ember droppers
+    - Refilled TNT dispenser
+    - Cleared The Burning Dark key chest
+
+### Level 4
+
+- Maintenance Changes
+    - Cleared compasses (and other items) from artifact spots
+    - Secret Treasure and Ember dropper
+    - Refilled TNT dispenser
 
 ## Structure Changes
 
