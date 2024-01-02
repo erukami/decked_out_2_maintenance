@@ -1,5 +1,9 @@
 # Decked Out 2 Files
-Clean region files with basic maintenance and minor fixes for TangoTek's Decked Out 2 from HermitCraft Season 9.
+Clean region and entities files with basic maintenance and minor fixes for TangoTek's Decked Out 2 from HermitCraft Season 9.
+
+- [Changes](#changes)
+- [Instructions](#instructions)
+- [Warnings](#warnings)
 
 # Changes
 
@@ -24,9 +28,6 @@ Clean region files with basic maintenance and minor fixes for TangoTek's Decked 
     - Refilled Artifact to Ember conversion system with Embers
         - A channel has cut out above and hoppers added to be able to easily refill the system
         - A Shulker box has been placed nearby for easy refills in creative mode
-
-- Fixes
-
 
 ## Level Changes
 
@@ -69,10 +70,44 @@ Clean region files with basic maintenance and minor fixes for TangoTek's Decked 
 - Hid entrance to redstone in starting room after exiting minecart
     - 2 blocks of Powdered Snow are now blocking the path on the right side
 
+# Instructions
+
+## Full Reset
+1. Ensure that the world save is not currently open in game.
+2. Navigate to your save's folder and open the `region`` folder.
+3. _**(optional)**_ Rename `r.-1.3.mca` to `r.-1.3.mca.old`. This will be for a backup if something goes wrong.
+4. Copy the `r.-1.3.mca` file from the [`region_files`](region_files) folder to the save's region folder.
+5. _**(optional)**_ Rename `r.-1.3.mca` to `r.-2.3.mca.old`. This will be for a backup if something goes wrong.
+6. Copy the `r.-2.3.mca` file from the [`region_files`](region_files) folder to the save's region folder.
+7. Navigate up a folder and open the save's `entities` folder.
+8. _**(optional)**_ Rename `r.-1.3.mca` to `r.-1.3.mca.old`. This will be for a backup if something goes wrong.
+9. Copy the `r.-1.3.mca` file from the [`entities_files`](entities_files) folder to the save's region folder.
+10. _**(optional)**_ Rename `r.-1.3.mca` to `r.-2.3.mca.old`. This will be for a backup if something goes wrong.
+11. Copy the `r.-2.3.mca` file from the [`entities_files`](entities_files) folder to the save's region folder.
+
+## Non-entity Reset (dungeon structure damage, droppers empty, redstone broken, etc.)
+1. Ensure that the world save is not currently open in game.
+2. Navigate to your save's folder and open the `region`` folder.
+3. _**(optional)**_ Rename `r.-1.3.mca` to `r.-1.3.mca.old`. This will be for a backup if something goes wrong.
+4. Copy the `r.-1.3.mca` file from the [`region_files`](region_files) folder to the save's region folder.
+5. _**(optional)**_ Rename `r.-1.3.mca` to `r.-2.3.mca.old`. This will be for a backup if something goes wrong.
+6. Copy the `r.-2.3.mca` file from the [`region_files`](region_files) folder to the save's region folder.
+
+## Entity Reset (hopper carts, item frames, mobs, armor stands, etc.)
+1. Ensure that the world save is not currently open in game.
+2. Navigate to your save's folder and open the `region`` folder.
+3. _**(optional)**_ Rename `r.-1.3.mca` to `r.-1.3.mca.old`. This will be for a backup if something goes wrong.
+4. Copy the `r.-1.3.mca` file from the [`entities_files`](entities_files) folder to the save's region folder.
+5. _**(optional)**_ Rename `r.-1.3.mca` to `r.-2.3.mca.old`. This will be for a backup if something goes wrong.
+6. Copy the `r.-2.3.mca` file from the [`entities_files`](entities_files) folder to the save's region folder.
+
 # Warnings
 
-## Replacing Files
-Files should be replaced after the save has been closed. The game can remain open on the starting menu.
+## Existing Decked Out Changes Lost
+Copying the files from this repository to your save will overwrite any changes made to Decked Out. If you have played and created a deck, make sure the deck is in your inventory before replacing the files. Failure to do so will result in a lost deck if it is stored in the affected areas.
+
+## Avoiding Crashes
+Files should be replaced after the save has been closed. The game can remain open on the starting menu, but the save must be closed.
 
 ## Adjacent Builds Affected
 Replacing the files will affect builds near Decked Out. The affected builds are as follows:
