@@ -12,7 +12,7 @@ Quicklinks:
 
 # Files
 
-`r.-1.3.mca`: Affects the Eastern half of Decked Out. Item shop and area below.
+`r.-1.3.mca`: Affects the Eastern half of Decked Out. Crown shop and area below.
 
 `r.-2.3.mca`: Affects the Western half of Decked Out. Difficulty selector and area below.
 
@@ -31,6 +31,8 @@ Download the related release ZIP file for what you want to reset:
 - **Full Reset**: [all_decked_out_files.zip](https://github.com/erukami/decked_out_2_maintenance/releases/download/v1/all_decked_out_files.zip)
 - **Non-entity Reset:** [region_files.zip](https://github.com/erukami/decked_out_2_maintenance/releases/download/v1/region_files.zip)
 - **Entity Reset:** [entities_files.zip](https://github.com/erukami/decked_out_2_maintenance/releases/download/v1/entities_files.zip)
+
+If you do not trust ZIP files, download the related region and entities files from their directories. Ensure that you know how to distinguish the two sets.
 
 
 ## Full Reset
@@ -145,6 +147,9 @@ Replacing the files will affect builds near Decked Out. The affected builds are 
 - **r.-2.3.mca:** Mumbo Jumbo and xBCrafted
 
 [![Affected Areas](images/affected_area_thumb.png)](images/affect_area.png)
+
+## File Mix Up
+Ensure that you are copying the region files to the `region`` folder and the entities files to the `entities` folder. Region files are about 12MB in size and entities files are less than 1.5MB in size.
 
 # Special Thanks
 
