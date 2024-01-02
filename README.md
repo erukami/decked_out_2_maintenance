@@ -121,3 +121,10 @@ Replacing the files will affect builds near Decked Out. The affected builds are 
 - **r.-2.3.mca:** Mumbo Jumbo and xBCrafted
 
 [![Affected Areas](images/affected_area_thumb.png)](images/affect_area.png)
+
+# Special Thanks
+
+- TangoTek for creating Decked Out 2
+- All Hermits for doing Hermitecraft
+- [u/Pyrosorc](https://www.reddit.com/user/Pyrosorc) and [u/Kienlabadao](https://www.reddit.com/user/Kienlabadao) for point out issues that needed to be addressed
+- [u/CBYrdt](https://www.reddit.com/user/CBYrdt) for pointing out the need for both region and entities files
