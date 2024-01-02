@@ -1,5 +1,7 @@
 # Decked Out 2 Files
-Clean region and entities files with basic maintenance and minor fixes for TangoTek's Decked Out 2 from HermitCraft Season 9.
+Clean region and entities files with basic maintenance and a couple minor fixes for TangoTek's Decked Out 2 from HermitCraft Season 9. This repository is strictly to make starting the dungeon from scratch easier without reloading the entire save. 
+
+If you find something that was missed, create an issue so I can look into it.
 
 - [Changes](#changes)
 - [Instructions](#instructions)
@@ -56,6 +58,9 @@ Clean region and entities files with basic maintenance and minor fixes for Tango
     - Refilled Treasure and Ember droppers
     - Refilled TNT dispenser
     - Cleared The Burning Dark key chest
+
+- Issue not fixed
+    - There are droppers on the middle level that do not have note blocks to indicate something was dropped. This is due to ceiling design and close proximity to the top level's hall (1 block above the droppers). Fixing this would require a major redstone or change to the positioning of the droppers and is outside this project's scope.
 
 ### Level 4
 
