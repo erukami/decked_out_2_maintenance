@@ -1,9 +1,10 @@
 # Decked Out 2 Maintenance
-Clean region and entities files with basic maintenance and a couple minor fixes for TangoTek's Decked Out 2 from HermitCraft Season 9. This repository is strictly to make starting the dungeon from scratch easier without reloading the entire save. The specific fixes were made for ambiance reasons only and do not affect gameplay.
+Clean region and entities files with basic maintenance and a couple minor fixes for Tango Tek's Decked Out 2 from HermitCraft Season 9. This repository is strictly to make starting the dungeon from scratch easier without reloading the entire save. The specific fixes were made for ambiance reasons only and do not affect gameplay.
 
 If you find something that was missed, create an issue so I can look into it.
 
 Quicklinks:
+
 - [Files](#files)
 - [Folders](#folders)
 - [Instructions](#instructions)
@@ -153,7 +154,7 @@ Ensure that you are copying the region files to the `region`` folder and the ent
 
 # Special Thanks
 
-- TangoTek for creating Decked Out 2
+- Tango Tek for creating Decked Out 2
 - All Hermits for doing Hermitcraft
 - [u/Pyrosorc](https://www.reddit.com/user/Pyrosorc) and [u/Kienlabadao](https://www.reddit.com/user/Kienlabadao) for point out issues that needed to be addressed
 - [u/CBYrdt](https://www.reddit.com/user/CBYrdt) for pointing out the need for both region and entities files
