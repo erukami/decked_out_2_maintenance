@@ -28,9 +28,10 @@ If you have started playing Decked Out, ensure that you have your deck in your i
 
 Download the related release ZIP file for what you want to reset:
 
-- **Full Reset**: [all_decked_out_files.zip](releases/download/v1/all_decked_out_files.zip)
-- **Non-entity Reset:** [region_files.zip](releases/download/v1/region_files.zip)
-- **Entity Reset:** [entities_files.zip](releases/download/v1/entities_files.zip)
+- **Full Reset**: [all_decked_out_files.zip](https://github.com/erukami/decked_out_2_maintenance/releases/download/v1/all_decked_out_files.zip)
+- **Non-entity Reset:** [region_files.zip](https://github.com/erukami/decked_out_2_maintenance/releases/download/v1/region_files.zip)
+- **Entity Reset:** [entities_files.zip](https://github.com/erukami/decked_out_2_maintenance/releases/download/v1/entities_files.zip)
+
 
 ## Full Reset
 1. Ensure that the world save is not currently open in game.
