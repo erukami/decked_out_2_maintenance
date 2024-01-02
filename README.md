@@ -1,11 +1,59 @@
 # Decked Out 2 Files
-Clean region and entities files with basic maintenance and a couple minor fixes for TangoTek's Decked Out 2 from HermitCraft Season 9. This repository is strictly to make starting the dungeon from scratch easier without reloading the entire save. 
+Clean region and entities files with basic maintenance and a couple minor fixes for TangoTek's Decked Out 2 from HermitCraft Season 9. This repository is strictly to make starting the dungeon from scratch easier without reloading the entire save. The specific fixes were made for ambiance reasons only and do not affect gameplay.
 
 If you find something that was missed, create an issue so I can look into it.
 
-- [Changes](#changes)
+Quicklinks:
+- [Files](#files)
+- [Folders](#folders)
 - [Instructions](#instructions)
+- [Changes](#changes)
 - [Warnings](#warnings)
+
+# Files
+
+`r.-1.3.mca`: Affects the Eastern half of Decked Out. Item shop and area below.
+
+`r.-2.3.mca`: Affects the Western half of Decked Out. Difficulty selector and area below.
+
+# Folders
+
+[`region_files`](region_files): Files for resetting droppers and structure changes
+
+[`entities_files`](entities_files): Files for resetting mobs, item frames, and armor stands
+
+# Instructions
+
+If you have started playing Decked Out, ensure that you have your deck in your inventory before continuing. Failure to do so can result in a lost deck. Making a save backup is also recommended.
+
+## Full Reset
+1. Ensure that the world save is not currently open in game.
+2. Navigate to your save's folder and open the `region`` folder.
+3. _**(optional)**_ Rename `r.-1.3.mca` to `r.-1.3.mca.old`. This will be for a backup if something goes wrong.
+4. Copy the `r.-1.3.mca` file from the [`region_files`](region_files) folder to the save's region folder.
+5. _**(optional)**_ Rename `r.-1.3.mca` to `r.-2.3.mca.old`. This will be for a backup if something goes wrong.
+6. Copy the `r.-2.3.mca` file from the [`region_files`](region_files) folder to the save's region folder.
+7. Navigate up a folder and open the save's `entities` folder.
+8. _**(optional)**_ Rename `r.-1.3.mca` to `r.-1.3.mca.old`. This will be for a backup if something goes wrong.
+9. Copy the `r.-1.3.mca` file from the [`entities_files`](entities_files) folder to the save's region folder.
+10. _**(optional)**_ Rename `r.-1.3.mca` to `r.-2.3.mca.old`. This will be for a backup if something goes wrong.
+11. Copy the `r.-2.3.mca` file from the [`entities_files`](entities_files) folder to the save's region folder.
+
+## Non-entity Reset (dungeon structure damage, droppers empty, redstone broken, etc.)
+1. Ensure that the world save is not currently open in game.
+2. Navigate to your save's folder and open the `region`` folder.
+3. _**(optional)**_ Rename `r.-1.3.mca` to `r.-1.3.mca.old`. This will be for a backup if something goes wrong.
+4. Copy the `r.-1.3.mca` file from the [`region_files`](region_files) folder to the save's region folder.
+5. _**(optional)**_ Rename `r.-1.3.mca` to `r.-2.3.mca.old`. This will be for a backup if something goes wrong.
+6. Copy the `r.-2.3.mca` file from the [`region_files`](region_files) folder to the save's region folder.
+
+## Entity Reset (hopper carts, item frames, mobs, armor stands, etc.)
+1. Ensure that the world save is not currently open in game.
+2. Navigate to your save's folder and open the `region`` folder.
+3. _**(optional)**_ Rename `r.-1.3.mca` to `r.-1.3.mca.old`. This will be for a backup if something goes wrong.
+4. Copy the `r.-1.3.mca` file from the [`entities_files`](entities_files) folder to the save's region folder.
+5. _**(optional)**_ Rename `r.-1.3.mca` to `r.-2.3.mca.old`. This will be for a backup if something goes wrong.
+6. Copy the `r.-2.3.mca` file from the [`entities_files`](entities_files) folder to the save's region folder.
 
 # Changes
 
@@ -74,37 +122,6 @@ If you find something that was missed, create an issue so I can look into it.
 - Closed holes in lobby and Levels 1-3
 - Hid entrance to redstone in starting room after exiting minecart
     - 2 blocks of Powdered Snow are now blocking the path on the right side
-
-# Instructions
-
-## Full Reset
-1. Ensure that the world save is not currently open in game.
-2. Navigate to your save's folder and open the `region`` folder.
-3. _**(optional)**_ Rename `r.-1.3.mca` to `r.-1.3.mca.old`. This will be for a backup if something goes wrong.
-4. Copy the `r.-1.3.mca` file from the [`region_files`](region_files) folder to the save's region folder.
-5. _**(optional)**_ Rename `r.-1.3.mca` to `r.-2.3.mca.old`. This will be for a backup if something goes wrong.
-6. Copy the `r.-2.3.mca` file from the [`region_files`](region_files) folder to the save's region folder.
-7. Navigate up a folder and open the save's `entities` folder.
-8. _**(optional)**_ Rename `r.-1.3.mca` to `r.-1.3.mca.old`. This will be for a backup if something goes wrong.
-9. Copy the `r.-1.3.mca` file from the [`entities_files`](entities_files) folder to the save's region folder.
-10. _**(optional)**_ Rename `r.-1.3.mca` to `r.-2.3.mca.old`. This will be for a backup if something goes wrong.
-11. Copy the `r.-2.3.mca` file from the [`entities_files`](entities_files) folder to the save's region folder.
-
-## Non-entity Reset (dungeon structure damage, droppers empty, redstone broken, etc.)
-1. Ensure that the world save is not currently open in game.
-2. Navigate to your save's folder and open the `region`` folder.
-3. _**(optional)**_ Rename `r.-1.3.mca` to `r.-1.3.mca.old`. This will be for a backup if something goes wrong.
-4. Copy the `r.-1.3.mca` file from the [`region_files`](region_files) folder to the save's region folder.
-5. _**(optional)**_ Rename `r.-1.3.mca` to `r.-2.3.mca.old`. This will be for a backup if something goes wrong.
-6. Copy the `r.-2.3.mca` file from the [`region_files`](region_files) folder to the save's region folder.
-
-## Entity Reset (hopper carts, item frames, mobs, armor stands, etc.)
-1. Ensure that the world save is not currently open in game.
-2. Navigate to your save's folder and open the `region`` folder.
-3. _**(optional)**_ Rename `r.-1.3.mca` to `r.-1.3.mca.old`. This will be for a backup if something goes wrong.
-4. Copy the `r.-1.3.mca` file from the [`entities_files`](entities_files) folder to the save's region folder.
-5. _**(optional)**_ Rename `r.-1.3.mca` to `r.-2.3.mca.old`. This will be for a backup if something goes wrong.
-6. Copy the `r.-2.3.mca` file from the [`entities_files`](entities_files) folder to the save's region folder.
 
 # Warnings
 
