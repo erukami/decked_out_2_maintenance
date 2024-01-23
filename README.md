@@ -29,9 +29,9 @@ If you have started playing Decked Out, ensure that you have your deck in your i
 
 Download the related release ZIP file for what you want to reset:
 
-- **Full Reset**: [all_decked_out_files.zip](https://github.com/erukami/decked_out_2_maintenance/releases/download/v1/all_decked_out_files.zip)
-- **Non-entity Reset:** [region_files.zip](https://github.com/erukami/decked_out_2_maintenance/releases/download/v1/region_files.zip)
-- **Entity Reset:** [entities_files.zip](https://github.com/erukami/decked_out_2_maintenance/releases/download/v1/entities_files.zip)
+- **Full Reset**: [all_decked_out_files.zip](https://github.com/erukami/decked_out_2_maintenance/releases/download/v2/all_decked_out_files.zip)
+- **Non-entity Reset:** [region_files.zip](https://github.com/erukami/decked_out_2_maintenance/releases/download/v2/region_files.zip)
+- **Entity Reset:** [entities_files.zip](https://github.com/erukami/decked_out_2_maintenance/releases/download/v2/entities_files.zip)
 
 If you do not trust ZIP files, download the related region and entities files from their directories. Ensure that you know how to distinguish the two sets.
 
